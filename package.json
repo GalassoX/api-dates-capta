@@ -1,0 +1,22 @@
+{
+  "name": "api-fecha-capta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/app.js",
+  "scripts": {
+    "dev": "tsc && node .",
+    "build": "tsc",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "5.0.3",
+    "@types/node": "24.6.1",
+    "typescript": "5.9.3"
+  },
+  "dependencies": {
+    "express": "5.1.0"
+  }
+}
